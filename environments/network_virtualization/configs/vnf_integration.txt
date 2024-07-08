@@ -1,0 +1,5 @@
+# VNF Integration Configuration
+# Description: Integrate Virtual Network Functions (VNFs) into the network.
+# Topology: VNFs integrated into the virtual network.
+# Actions: Configure VNF integration and test functionality.
+

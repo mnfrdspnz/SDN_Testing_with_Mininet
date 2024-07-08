@@ -1,0 +1,5 @@
+# Network Segmentation Configuration
+# Description: Implement network segmentation using VLANs or VXLANs.
+# Topology: Segmented virtual network with isolated traffic.
+# Actions: Configure network segmentation and test isolation.
+

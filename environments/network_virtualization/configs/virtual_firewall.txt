@@ -1,0 +1,5 @@
+# Virtual Firewall Configuration
+# Description: Setup a virtual firewall to control traffic flow.
+# Topology: Virtual firewall protecting virtual machines.
+# Actions: Configure virtual firewall and test traffic filtering.
+

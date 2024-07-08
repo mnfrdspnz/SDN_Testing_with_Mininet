@@ -1,0 +1,5 @@
+# Virtual Router Configuration
+# Description: Setup a virtual router to route traffic between different segments.
+# Topology: Virtual machines connected through a virtual router.
+# Actions: Configure virtual router and test routing between segments.
+

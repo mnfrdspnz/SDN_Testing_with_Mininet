@@ -1,0 +1,5 @@
+# VM Migration Configuration
+# Description: Configure live migration of virtual machines.
+# Topology: Virtual machines capable of live migration.
+# Actions: Configure VM migration and test seamless transition.
+
