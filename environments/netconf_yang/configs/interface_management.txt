@@ -1,0 +1,5 @@
+# Interface Management Configuration
+# Description: Interface configuration and management using NETCONF.
+# Topology: Single device with multiple interfaces.
+# Actions: Configure and manage device interfaces using NETCONF.
+

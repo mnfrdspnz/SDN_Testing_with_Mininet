@@ -1,0 +1,5 @@
+# Basic NETCONF/YANG Configuration
+# Description: Basic device configuration using NETCONF.
+# Topology: Single device with basic settings.
+# Actions: Configure basic device settings using NETCONF.
+

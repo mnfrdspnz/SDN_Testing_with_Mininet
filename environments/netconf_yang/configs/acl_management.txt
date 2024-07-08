@@ -1,0 +1,5 @@
+# ACL Management Configuration
+# Description: Access control list management using NETCONF.
+# Topology: Single device with multiple ACLs.
+# Actions: Configure and manage ACLs using NETCONF.
+

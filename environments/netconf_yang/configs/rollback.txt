@@ -1,0 +1,5 @@
+# Configuration Rollback
+# Description: Configuration rollback using NETCONF.
+# Topology: Single device.
+# Actions: Rollback device configuration to a previous state using NETCONF.
+

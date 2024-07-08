@@ -1,0 +1,5 @@
+# Telemetry Configuration
+# Description: Telemetry data collection using NETCONF.
+# Topology: Single device.
+# Actions: Collect and analyze telemetry data using NETCONF.
+

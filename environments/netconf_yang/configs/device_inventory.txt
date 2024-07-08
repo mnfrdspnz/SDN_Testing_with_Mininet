@@ -1,0 +1,5 @@
+# Device Inventory Management
+# Description: Inventory management and monitoring using NETCONF.
+# Topology: Multiple devices.
+# Actions: Retrieve and manage inventory data using NETCONF.
+
