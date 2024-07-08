@@ -1,0 +1,5 @@
+# Link failure configuration for OpenFlow
+# Description: Handle link failures and reroute traffic
+# Topology: Multiple switches with redundant links
+# Actions: Detect link failures and reroute traffic
+

@@ -1,0 +1,5 @@
+# Simple switch configuration for OpenFlow
+# Description: Basic switch functionality with OpenFlow
+# Topology: Single switch connecting multiple hosts
+# Actions: Forward packets based on flow rules
+

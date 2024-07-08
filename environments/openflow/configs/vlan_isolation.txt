@@ -1,0 +1,5 @@
+# VLAN isolation configuration for OpenFlow
+# Description: Isolate traffic between different VLANs
+# Topology: Multiple switches with hosts assigned to different VLANs
+# Actions: Forward packets based on VLAN tags
+

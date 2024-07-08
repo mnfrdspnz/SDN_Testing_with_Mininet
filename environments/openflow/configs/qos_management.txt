@@ -1,0 +1,5 @@
+# QoS management configuration for OpenFlow
+# Description: Manage Quality of Service (QoS)
+# Topology: Single switch with multiple hosts
+# Actions: Prioritize traffic based on QoS policies
+

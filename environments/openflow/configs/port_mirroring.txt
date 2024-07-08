@@ -1,0 +1,5 @@
+# Port mirroring configuration for OpenFlow
+# Description: Implement port mirroring for traffic analysis
+# Topology: Single switch with multiple hosts
+# Actions: Mirror traffic from one port to another
+

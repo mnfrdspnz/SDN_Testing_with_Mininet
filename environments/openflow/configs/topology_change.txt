@@ -1,0 +1,5 @@
+# Topology change configuration for OpenFlow
+# Description: Handle changes in network topology
+# Topology: Multiple switches with dynamic link changes
+# Actions: Update flow rules based on topology changes
+
