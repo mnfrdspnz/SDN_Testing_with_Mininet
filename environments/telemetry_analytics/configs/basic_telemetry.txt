@@ -1,0 +1,5 @@
+# Basic Telemetry Configuration
+# Description: Setup basic telemetry for network monitoring.
+# Topology: Hosts connected through a switch with telemetry enabled.
+# Actions: Configure basic telemetry and collect data.
+

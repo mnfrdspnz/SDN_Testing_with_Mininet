@@ -1,0 +1,5 @@
+# Alerting Configuration
+# Description: Setup alerting for network events.
+# Topology: Hosts connected through a switch with alerting enabled.
+# Actions: Configure alerting and generate alerts.
+

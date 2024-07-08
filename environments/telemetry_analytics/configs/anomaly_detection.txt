@@ -1,0 +1,5 @@
+# Anomaly Detection Configuration
+# Description: Detect anomalies in network traffic.
+# Topology: Hosts connected through a switch with anomaly detection enabled.
+# Actions: Configure anomaly detection and collect data.
+

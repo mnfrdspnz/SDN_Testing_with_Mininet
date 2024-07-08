@@ -1,0 +1,5 @@
+# Historical Data Collection Configuration
+# Description: Collect and store historical network data.
+# Topology: Hosts connected through a switch with historical data collection enabled.
+# Actions: Configure historical data collection and store data.
+

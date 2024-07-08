@@ -1,0 +1,5 @@
+# Device Health Monitoring Configuration
+# Description: Monitor the health of network devices.
+# Topology: Hosts connected through a switch with device health monitoring enabled.
+# Actions: Configure device health monitoring and collect data.
+

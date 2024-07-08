@@ -1,0 +1,5 @@
+# Traffic Analysis Configuration
+# Description: Analyze network traffic patterns.
+# Topology: Hosts connected through a switch with traffic analysis enabled.
+# Actions: Configure traffic analysis and collect data.
+

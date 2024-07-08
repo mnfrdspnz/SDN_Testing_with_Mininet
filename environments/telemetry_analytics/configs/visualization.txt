@@ -1,0 +1,5 @@
+# Visualization Configuration
+# Description: Visualize network telemetry data.
+# Topology: Hosts connected through a switch with data visualization enabled.
+# Actions: Configure data visualization and generate visual reports.
+
