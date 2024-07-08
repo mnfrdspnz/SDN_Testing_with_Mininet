@@ -1,0 +1,5 @@
+# Northbound API Configuration
+# Description: Interactions with the northbound API of the SDN controller.
+# Topology: Single controller with multiple switches and hosts.
+# Actions: Send API requests to manage and retrieve network information.
+

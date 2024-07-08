@@ -1,0 +1,5 @@
+# Southbound API Configuration
+# Description: Interactions with the southbound API of the SDN controller.
+# Topology: Single controller with multiple switches and hosts.
+# Actions: Manage network devices and configurations through the API.
+

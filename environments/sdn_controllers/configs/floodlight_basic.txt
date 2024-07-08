@@ -1,0 +1,5 @@
+# Floodlight Basic Controller Configuration
+# Description: Basic setup and configuration of the Floodlight SDN controller.
+# Topology: Single switch with multiple hosts.
+# Actions: Basic connectivity and controller integration testing.
+

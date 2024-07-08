@@ -1,0 +1,5 @@
+# Controller Failover Configuration
+# Description: Testing controller failover scenarios.
+# Topology: Multiple controllers with a single switch and multiple hosts.
+# Actions: Simulate controller failures and observe failover behavior.
+
