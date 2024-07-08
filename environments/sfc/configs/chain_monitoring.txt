@@ -1,0 +1,5 @@
+# Service Chain Monitoring
+# Description: Monitor traffic through the service chain.
+# Topology: Hosts connected through a monitored service chain.
+# Actions: Configure monitoring for the service chain and collect data.
+

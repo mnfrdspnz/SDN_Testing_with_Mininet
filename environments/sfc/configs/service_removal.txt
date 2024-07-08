@@ -1,0 +1,5 @@
+# Service Function Removal
+# Description: Remove a service function from an existing chain.
+# Topology: Hosts connected through a chain of service functions with a removal.
+# Actions: Configure service removal and test traffic flow.
+

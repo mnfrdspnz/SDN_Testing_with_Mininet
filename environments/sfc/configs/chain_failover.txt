@@ -1,0 +1,5 @@
+# Service Chain Failover
+# Description: Setup failover mechanisms for service chains.
+# Topology: Hosts connected through a resilient service chain.
+# Actions: Configure failover for service chains and test resiliency.
+
