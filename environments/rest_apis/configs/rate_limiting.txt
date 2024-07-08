@@ -1,0 +1,6 @@
+# Rate Limiting
+# Description: Apply rate limiting to REST API requests.
+# Endpoint: /api/rate_limit
+# Method: GET
+# Actions: Retrieve rate limit status and apply rate limits to API requests.
+

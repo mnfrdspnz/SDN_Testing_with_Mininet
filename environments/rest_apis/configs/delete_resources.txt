@@ -1,0 +1,6 @@
+# DELETE Resources
+# Description: Delete resources from a device using REST API.
+# Endpoint: /api/resource
+# Method: DELETE
+# Actions: Remove specified resources from the device.
+

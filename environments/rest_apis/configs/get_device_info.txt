@@ -1,0 +1,6 @@
+# GET Device Information
+# Description: Retrieve device information using REST API.
+# Endpoint: /api/device
+# Method: GET
+# Actions: Retrieve and display device information.
+

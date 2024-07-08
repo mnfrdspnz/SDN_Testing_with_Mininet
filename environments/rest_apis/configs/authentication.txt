@@ -1,0 +1,6 @@
+# Authentication
+# Description: Authenticate to the REST API.
+# Endpoint: /api/auth
+# Method: POST
+# Actions: Authenticate using username and password to obtain a token.
+

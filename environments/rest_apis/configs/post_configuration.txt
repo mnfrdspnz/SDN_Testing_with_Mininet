@@ -1,0 +1,6 @@
+# POST Configuration
+# Description: Apply configuration to a device using REST API.
+# Endpoint: /api/config
+# Method: POST
+# Actions: Send configuration data to the device.
+

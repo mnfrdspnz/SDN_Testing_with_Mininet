@@ -1,0 +1,6 @@
+# PUT Updates
+# Description: Update device settings using REST API.
+# Endpoint: /api/update
+# Method: PUT
+# Actions: Update existing configuration or settings on the device.
+

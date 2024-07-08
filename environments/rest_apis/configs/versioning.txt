@@ -1,0 +1,6 @@
+# API Versioning
+# Description: Manage API versioning.
+# Endpoint: /api/version
+# Method: GET/POST
+# Actions: Retrieve current API version and manage versions.
+

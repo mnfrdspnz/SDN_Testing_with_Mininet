@@ -1,0 +1,6 @@
+# API Gateway
+# Description: Configure and manage API gateway.
+# Endpoint: /api/gateway
+# Method: POST/PUT/GET/DELETE
+# Actions: Configure, update, retrieve, and delete API gateway settings.
+
